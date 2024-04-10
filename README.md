@@ -14,7 +14,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
 </p>
-<h1 align="center">Welcome on my profile!</h1>
+<h1 align="center">Welcome to my profile!</h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&random=false&width=700&height=51&lines=Web+and+game+developer+from+Czech+Republic!;Windows%2C+Linux+and+MacOS+user;PHP+-+Symfony+and+Nette+framework;Latte+and+Smarty;Javascript;Unity+Engine+-+C%23+language;NodeJS+-+Discord+bots;Java" alt="Typing SVG" /></p>
 <h2 align="center">🏆 Trophies 🏆</h2>
 <p align="center">
