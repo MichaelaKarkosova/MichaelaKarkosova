@@ -29,7 +29,7 @@
 
 <h2 align="center">✨ TOP project ✨</h2>
 <p align="center">
-  <a href="[https://github-profile-trophy.vercel.app/?username=MichaelaKarkosova&title=joined](https://github.com/MichaelaKarkosova/Monitor_Bytu)">
+  <a href="https://github.com/MichaelaKarkosova/Monitor_Bytu">
   <img align="center" width=50% src="https://github-readme-stats-delta-eight-73.vercel.app/api/pin/?username=MichaelaKarkosova&theme=great-gatsby&repo=Monitor_Bytu"/>
   </a>
 </p>
