@@ -22,7 +22,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" width="40" height="40"/><br/>PhpStorm</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="40" height="40"/><br/>Apache</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/><br/>Swagger</td>
-    <td></td> 
+    <td align="center"><img src="https://www.okoone.com/wp-content/uploads/2024/06/Nginx-logo-400x245.png" width="40" height="40"/>Nginx</td> 
   </tr>
 </table>
 
