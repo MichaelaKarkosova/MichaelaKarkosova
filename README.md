@@ -31,6 +31,7 @@
 <h2 align="center">🏆 Trophies 🏆</h2>
 <p align="center">
 <img align="center" width=40% src="https://github-profile-trophy.vercel.app/?username=MichaelaKarkosova&rank=SSS,SS,S,A,AA,AAA,B,BB,BBB&theme=monokai&column=-1"/>
+  <img align="center" width="40%" src="https://github-trophies.vercel.app/?username=MichaelaKarkosova&rank=SECRET&theme=monokai&&column=-1"/>
 </p>
 
 <h2 align="center">✨ Stats ✨ </h2>
