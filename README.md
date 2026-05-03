@@ -24,7 +24,7 @@
 <h2 align="center">✨ Stats ✨ </h2>
 <p align="center">
   <img align="center" height=220 width=500 src="https://github-readme-stats-delta-eight-73.vercel.app/api?username=MichaelaKarkosova&show_icons=true&theme=great-gatsby&include_all_commits=true&rank_icon=percentile"/>
-  <img align="center" height=220 src="https://github-readme-stats-delta-eight-73.vercel.app/api/top-langs/?username=MichaelaKarkosova&include_all_commits=true&theme=great-gatsby&layout=donut&langs_count=6&hide=shaderlab,less,scss"/>
+  <img align="center" height=220 src="https://github-readme-stats-delta-eight-73.vercel.app/api/top-langs/?username=MichaelaKarkosova&include_all_commits=true&theme=great-gatsby&layout=donut&langs_count=8&hide=shaderlab,less,scss"/>
 </p>
 
 <h2 align="center">✨ TOP project ✨</h2>
